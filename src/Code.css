@@ -1,0 +1,16 @@
+.language_selector{
+    display: flex;
+}
+.language_selector h6{
+    margin-right: 5px;
+    padding-top: 6px;
+}
+.language_selector .form-select{
+    width: auto;
+    background-color: rgb(109, 191, 246);
+}
+textarea {
+    background-color: transparent;
+    resize: none;
+    outline: none;
+}
